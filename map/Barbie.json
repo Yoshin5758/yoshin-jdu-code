@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/Barbie/Barbie_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FBarbie_ULTRA.webm",
+    "jmcs://jd-contents/Barbie/Barbie_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FBarbie_MID.webm",
+    "jmcs://jd-contents/Barbie/Barbie_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FBarbie_LOW.webm",
+    "jmcs://jd-contents/Barbie/Barbie_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FBarbie_HIGH.webm",
+    "jmcs://jd-contents/Barbie/Barbie.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FBarbie.ogg"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/Aquarius/Aquarius_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FAquarius_ULTRA.webm?v=1626662441428",
+    "jmcs://jd-contents/Aquarius/Aquarius_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FAquarius_MID.webm?v=1626662441428",
+    "jmcs://jd-contents/Aquarius/Aquarius_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FAquarius_LOW.webm?v=1626662441428",
+    "jmcs://jd-contents/Aquarius/Aquarius_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FAquarius_HIGH.webm?v=1626662441428",
+    "jmcs://jd-contents/Aquarius/Aquarius.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FAquarius.ogg?v=1626662323938"
+  }
+}

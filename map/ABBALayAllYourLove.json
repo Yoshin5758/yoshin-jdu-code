@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FABBALayAllYourLove_ULTRA.webm?v=1626662441428",
+    "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FABBALayAllYourLove_MID.webm?v=1626662441428",
+    "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FABBALayAllYourLove_LOW.webm?v=1626662441428",
+    "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FABBALayAllYourLove_HIGH.webm?v=1626662441428",
+    "jmcs://jd-contents/ABBALayAllYourLove/ABBALayAllYourLove.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FABBALayAllYourLove.ogg?v=1626662323938"
+  }
+}
